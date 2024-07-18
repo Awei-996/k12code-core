@@ -9,7 +9,6 @@ import javax.sql.DataSource;
 
 /**
  * @author Carl
- * @description:
  * @since 1.0.0
  */
 @Configuration

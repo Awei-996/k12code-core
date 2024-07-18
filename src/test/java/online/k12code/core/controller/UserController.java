@@ -9,7 +9,6 @@ import javax.annotation.Resource;
 
 /**
  * @author Carl
- * @description:
  * @since 1.0.0
  */
 @SpringBootTest

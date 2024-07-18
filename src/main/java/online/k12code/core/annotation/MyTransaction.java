@@ -8,7 +8,6 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @description: 定义注解，设置回滚异常
  * @author Carl
  * @since 1.0.0
  */

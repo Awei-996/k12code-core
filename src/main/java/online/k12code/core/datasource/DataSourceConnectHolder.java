@@ -9,7 +9,6 @@ import java.sql.SQLException;
 
 /**
  * @author Carl
- * @description: 获取连接数据源
  * @since 1.0.0
  */
 @Component

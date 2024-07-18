@@ -13,7 +13,6 @@ import java.sql.SQLException;
 
 /**
  * @author Carl
- * @description: 定义注解切面
  * @since 1.0.0
  */
 @Aspect
